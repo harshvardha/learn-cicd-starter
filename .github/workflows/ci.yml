@@ -19,5 +19,4 @@ jobs:
           go-version: "1.23.0"
 
       - name: Print Go Version
-        run: echo go version
-        run: (exit 0)
+        run: go version
