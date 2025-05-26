@@ -27,8 +27,8 @@ jobs:
       - name: Check vulnerabilities
         run: gosec ./...
 
-  styles:
-    name: Styles
+  style:
+    name: Style
     runs-on: ubuntu-latest
 
     steps:
