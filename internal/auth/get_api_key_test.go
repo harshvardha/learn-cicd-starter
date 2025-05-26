@@ -58,5 +58,4 @@ func TestGetAPIKey(t *testing.T) {
 				return
 			}
 		})
-	}
-}
+	}}
